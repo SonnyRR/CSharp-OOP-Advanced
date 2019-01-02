@@ -45,7 +45,7 @@ namespace Travel.Tests
                 passengers[i] = new Passenger("Gosho" + i);
                 airplane.AddPassenger(passengers[i]);
             }
-
+    
             airport.AddTrip(trip);
 
             var flightController = new FlightController(airport);
