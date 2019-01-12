@@ -1,8 +1,10 @@
-# SoftUni - C# OOP-Advanced (3.0) ![copyright](https://i.imgur.com/didc4Tz.png "cc logo")
+# SoftUni - C# OOP-Advanced-November 2018(3.0) ![copyright](https://i.imgur.com/didc4Tz.png "cc logo")
 
 📖 This is my repo with exercises from C# OOP-Advanced module (3.0) - November 2018.
 
 📢 I've left some .zip archives intentionally because they contain various demos, skeletons and exercise resources.
+
+❗ Some exercise are missing because they were never pushed.
 
 # 📚Topics
 <ol>
