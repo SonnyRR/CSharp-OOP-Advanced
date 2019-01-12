@@ -4,7 +4,7 @@
 
 📢 I've left some .zip archives intentionally because they contain various demos, skeletons and exercise resources.
 
-❗ Some exercise are missing because they were never pushed.
+ ❗ Some exercise are missing because they were never pushed.
 
 # 📚Topics
 <ol>
